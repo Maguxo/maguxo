@@ -306,7 +306,7 @@ CONNECT WITH ME:
   <img src="https://blog.waalaxy.com/wp-content/uploads/2022/08/Blog-v2-Background-Gradients-3.png" alt="linkedin" width=100 height=56/>
    </a>
   <br>
-  <a href="https://t.me/guxho" target="_blank" >
+  <a href="https://t.me/guxo_6" target="_blank" >
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgVAe6YtdmGGm9wL250HpuoIbZdKPMdKjQA&usqp=CAU" alt="telegram" width=100 height=56/>
   </a>
   <a href="https://www.instagram.com/desarrollando_ando/" target="_blank" >
